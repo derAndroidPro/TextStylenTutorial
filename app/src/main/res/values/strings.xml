@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Text Stylen Tutorial</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="stringtexttv">Normal,
+    <b>Fetter Text</b>, <i>Kursiver Text</i>, <u>Unterstrichener Text</u> \nneu Zeile
+        <font bgcolor="" fgcolor="#ffffffff">Weißer Text auf Schwarzem Hintergrund</font>
+        <font bgcolor="#ffffffff" fgcolor="">Schwarzer Text auf weißem Hintergrund</font>
+        www.youtube.com/derandroidpro
+    </string>
+</resources>
